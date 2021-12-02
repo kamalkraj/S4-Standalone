@@ -1,0 +1,11 @@
+cmake==3.22.0
+einops==0.3.2
+numpy==1.19.5
+omegaconf==2.1.1
+opt-einsum==3.3.0
+pykeops==1.5
+pytorch-lightning==1.5.4
+scipy==1.5.4
+torch==1.10.0
+torchvision==0.11.1
+tqdm==4.62.3
